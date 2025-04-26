@@ -10,7 +10,7 @@ This project builds a simple Weather API that fetches weather data from the Open
 
 ---
 ## Tech Stack
-* Node.js
+* Node.js  
 * Express.js
 * Redis
 * Axios
@@ -66,6 +66,7 @@ docker-compose up -d
 
 ## API Endpoints
 Method | Endpoint | Description
+
 GET | /weather/:city | Get current weather by city name
 
 ## Error Handling
